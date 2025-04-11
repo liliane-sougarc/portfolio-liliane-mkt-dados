@@ -12,7 +12,13 @@ Bem-vindo(a)! Aqui você encontra meus projetos aplicados em **Python, Dashboard
 ---
 
 ## 🐍 Projetos em Python
-- [📈 Calculadora de ROI para campanhas](https://github.com/seu-usuario/python-calculadora-roi-campanhas)
+
+## 🧮 Calculadoras
+
+- [📉 Calculadora de ROI para campanhas de Tráfego](./calculadoras/roi/README.md)
+- [📏 Calculadora de Tamanho de Amostra](./calculadoras/tamanho-amostra/README.md)
+- [📊 Calculadora Estatística Completa](./calculadoras/estatistica-completa/README.md)
+
 - [📊 Limpeza automática de leads em CSV](#)
 - [💰 Simulador de lucratividade em tráfego pago](#)
 
